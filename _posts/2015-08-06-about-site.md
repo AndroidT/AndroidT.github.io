@@ -5,6 +5,6 @@ permalink: 'AboutSite'
 ---
 
 {
-  "name":"admin",
+  "name":"admintest",
   "password":"12345"
 }
